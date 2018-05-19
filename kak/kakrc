@@ -1,4 +1,4 @@
-colorscheme base16
+colorscheme base16-gord
 
 add-highlighter global/ number_lines -relative -hlcursor
 add-highlighter global/ show_matching
