@@ -2,7 +2,7 @@
 ## base16-gord.kak
 ##
 
-%sh{
+evaluate-commands %sh{
 
     background='rgb:282828'
     background_light='rgb:2D2D2D'
@@ -16,21 +16,14 @@
     black='rgb:000000'
     white='rgb:FFFFFF'
 
-    #red='rgb:AB4642'
+    red='rgb:AB4642'
     orange='rgb:DC9656'
-    #yellow='rgb:F7CA88'
-    #green='rgb:A1B56C'
-    #cyan='rgb:86C1B9'
-    #blue='rgb:7CAFC2'
-    #magenta='rgb:BA8BAF'
+    yellow='rgb:F7CA88'
+    green='rgb:A1B56C'
+    cyan='rgb:86C1B9'
+    blue='rgb:7CAFC2'
+    magenta='rgb:BA8BAF'
     brown='rgb:A16946'
-
-    red="red"
-    yellow="yellow"
-    green="green"
-    cyan="cyan"
-    blue="blue"
-    magenta="magenta"
 
     base08=${red}
     base09=${orange}
